@@ -1,0 +1,4 @@
+dynamicsAX
+==========
+
+Desarrollos en AX
